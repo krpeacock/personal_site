@@ -1,0 +1,22 @@
+#wrapper{
+  position: relative;
+  top:60px;
+  left:0;
+  padding: 10px;
+  font:16px/1 'Montserrat', sans-serif;
+  color:#415161;
+}
+
+.header{
+  align-items: flex-center;
+  text-align: center;
+}
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+#logo {
+  height:100px;
+}
