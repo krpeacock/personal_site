@@ -28894,10 +28894,64 @@
 	          { className: 'header' },
 	          _react2.default.createElement('img', { id: 'logo', src: 'uploads/peacock.png' }),
 	          _react2.default.createElement(
-	            'h1',
-	            null,
-	            'Web Developer'
-	          )
+	            'div',
+	            { className: 'well' },
+	            _react2.default.createElement(
+	              'h2',
+	              null,
+	              'Web Developer'
+	            ),
+	            _react2.default.createElement(
+	              'p',
+	              { className: 'headline-paragraph' },
+	              'My name is Kyle Peacock, and I\'m a full-stack web developer and branding specialist. Node.js, Express, React.js, and Postgresql make my ideas come to life.'
+	            )
+	          ),
+	          _react2.default.createElement(
+	            'div',
+	            { className: 'container' },
+	            _react2.default.createElement(
+	              'h2',
+	              null,
+	              'Javascript'
+	            ),
+	            _react2.default.createElement(
+	              'p',
+	              null,
+	              'Today, JavaScript is used in both the web client and on the server. I am experienced in the latest Javascript frameworks, building full-stack applications with React, Angular, Node.js, and Express, with familiarity in some other current frameworks.'
+	            ),
+	            _react2.default.createElement(
+	              'h2',
+	              null,
+	              'Adobe Creative Cloud'
+	            ),
+	            _react2.default.createElement(
+	              'p',
+	              null,
+	              'I\'ve been using the Creative Suite since 2006, beginning with Flash animations. Since then, I have used most of the products to some degree or another, but my strongest skills are in Illustrator, Photoshop, Premiere, and Dreamweaver. ​'
+	            ),
+	            _react2.default.createElement(
+	              'h2',
+	              null,
+	              'Full Stack'
+	            ),
+	            _react2.default.createElement(
+	              'p',
+	              null,
+	              'Businesses today demand a developer who understands how all the parts of a web application fit together. I can work on any stage of development on a web application, from hosting and database configuration to front-end design frameworks.'
+	            ),
+	            _react2.default.createElement(
+	              'h2',
+	              null,
+	              'Project Development'
+	            ),
+	            _react2.default.createElement(
+	              'p',
+	              null,
+	              'Most engineers prefer to focus on programming, and most managers prefer to focus primarily on higher-level issues. I tend to fall somewhere in between. My background in Philosophy, Law, and debate equip me to identify and communicate engineering\'s needs to upper management.'
+	            )
+	          ),
+	          _react2.default.createElement('hr', null)
 	        )
 	      )
 	    );

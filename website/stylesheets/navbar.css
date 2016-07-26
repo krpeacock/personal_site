@@ -23,6 +23,9 @@
   font-family: 'Lato', Arial, sans-serif;
   line-height: 60px;
 }
+#gn-menu{
+  border-bottom:1px solid #c6d0da;
+}
 
 .gn-menu-main {
   position:fixed;
@@ -89,7 +92,8 @@
   left:0;
   overflow:hidden;
   width: 60px;
-  border-top: 1px solid #c6d0da;
+  border-top: none;
+  border-right:1px solid #c6d0da;
   background: white;
   transform: translateX(-60px);
   transition: transform 0.2s, width 0.3s;

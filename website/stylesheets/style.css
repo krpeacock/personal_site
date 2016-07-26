@@ -1,8 +1,8 @@
 #wrapper{
   position: relative;
+  font-weight:lighter;
   top:60px;
   left:0;
-  padding: 10px;
   font:16px/1 'Montserrat', sans-serif;
   color:#415161;
 }
@@ -15,6 +15,45 @@ img {
   display:block;
   margin-left: auto;
   margin-right: auto
+}
+
+
+h2, p {
+  font-family: "Roboto" !important;
+  font-weight: lighter;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.container{
+  padding:20px;
+}
+
+.headline-paragraph{
+  font-size: 1em;
+  color:#8496b3;
+  font-family: "Roboto" !important;
+}
+
+.well{
+  background-color: #f9fafb;
+  padding:20px;
+  margin-top:10px;
+  width:100vw;
+  position: relative;
+  left:-10px;
+  border-top:solid 1px #e6e9eb;
+  border-bottom:solid 1px #e6e9eb;
+}
+.well h2{
+  font-weight: bold;
+  text-align: center;
+}
+.well p{
+  padding:20px;
+  line-height:1.4em;
+  font-weight: lighter;
+  text-align: center;
 }
 
 #logo {
